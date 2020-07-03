@@ -226,5 +226,4 @@ def predict_sentiment(model, tokenizer, sentence):
     return prediction.item()
 
 print(predict_sentiment(model,tokenizer,"This is a great book"))
-
 print(predict_sentiment(model, tokenizer, "This is a terrible product"))
