@@ -1,6 +1,6 @@
 # BERT-Sentiment-Analysis
 
-This is an implementation of BERT-Base model for multi-class sentiment analysis. 
+This is an implementation of the BERT-Base model for the multi-class sentiment analysis. 
 
 ## Dataset
 
