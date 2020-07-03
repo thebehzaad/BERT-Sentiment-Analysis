@@ -4,7 +4,7 @@ This is an implementation of BERT-Base model for multi-class sentiment analysis.
 
 ## Dataset
 
-The dataset can be downloaded from [here](https://www.kaggle.com/snap/amazon-fine-food-reviews)
+The dataset is the Amazon-Fine-Food-Review dataset which can be downloaded from [here](https://www.kaggle.com/snap/amazon-fine-food-reviews)
 
 ## References
 
